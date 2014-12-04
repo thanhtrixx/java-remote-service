@@ -1,4 +1,4 @@
 java-remote-service
 ===================
 
-3lv java remote service
+The first demo for 3lv remote solution.
